@@ -2,7 +2,7 @@
 Console.Clear();
 
 String especiePet= "GATO";
-String racaPet= "siames";
+String racaPet= "frajolaaaaaaa";
 String nomePet= "charlie";
 String idadePet= "3";
 String pelagemPet= "frajola";
